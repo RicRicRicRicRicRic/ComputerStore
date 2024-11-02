@@ -1,0 +1,100 @@
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.csproj.AssemblyReference.cache
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxLookup.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.OleDbSrc.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxDerived.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxDataConvert.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxSplit.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxBDD.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxAgg.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TxDataCollector.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.TDCLib.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.PlaLibrary.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.RDS.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.MSDATASRC.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.MDACVer.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.ADOR.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.ADODB.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.ADOMD.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.DataStore2Lib.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.IASDataStoreComServerLib.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.DataCollectorTasks.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Interop.MSHelpServices.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.csproj.ResolveComReference.cache
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer_Store.HomePage.resources
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer_Store.Properties.Resources.resources
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer_Store.UserForm.resources
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.csproj.GenerateResource.cache
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.AssemblyInfoInputs.cache
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.AssemblyInfo.cs
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Computer Store.exe
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Computer Store.deps.json
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Computer Store.runtimeconfig.json
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Computer Store.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Computer Store.pdb
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ricmi\source\repos\Computer Store\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer.17715F4F.Up2Date
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\refint\Computer Store.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.pdb
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer Store.genruntimeconfig.cache
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\ref\Computer Store.dll
+C:\Users\ricmi\source\repos\Computer Store\obj\Debug\net8.0-windows\Computer_Store.Confirm_button.resources
